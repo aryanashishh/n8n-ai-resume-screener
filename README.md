@@ -21,6 +21,7 @@ Stop manually reading every resume. This n8n workflow acts as your tireless recr
 2.Connect: Add your Google Drive and Google Gemini credentials.
 
 3.Configure:
+
 Trigger Node: Select your "Resumes" folder.
 
 Download JD Node: Select your Job Description PDF file.
