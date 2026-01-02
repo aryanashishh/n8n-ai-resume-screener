@@ -22,7 +22,9 @@ Stop manually reading every resume. This n8n workflow acts as your tireless recr
 
 3.Configure:
 Trigger Node: Select your "Resumes" folder.
+
 Download JD Node: Select your Job Description PDF file.
+
 Sheets Node: Select your results spreadsheet.
 
 
