@@ -5,8 +5,11 @@ Stop manually reading every resume. This n8n workflow acts as your tireless recr
 ⚡What it does
 
 1.Watches: You drop a PDF resume into a Google Drive folder.
+
 2.Compares: The AI reads the resume and compares it against your specific Job Description.
+
 3.Scores: It assigns a 0-100 Relevance Score (based on Skills, Exp, and Edu).
+
 4.Logs: It saves the candidate's name, contact info, and "Why they fit" reasoning to Google Sheets.
 
 🛠️ Setup in 3 Steps
